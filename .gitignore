@@ -1,7 +1,11 @@
-.idea
-*.class
+# Maven target directory
+target/
+
+# IDE files
 *.iml
-*.jar
-*.war
-*/out
-*/target
+*.iws
+*.ipr
+.idea/
+# Compiled class file
+*.class
+/bin/
